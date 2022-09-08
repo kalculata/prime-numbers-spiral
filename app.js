@@ -92,4 +92,4 @@ function isPrime(n) {
   return true;
 }
 
-drawSpirale(100, 10);
+drawSpirale(400, 100);
